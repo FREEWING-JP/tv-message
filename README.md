@@ -30,6 +30,10 @@ put `aquestalkpi` to `/home/pi/`
 sudo apt-get install cec-utils
 ```
 
+## Set account settings
+
+Edit `config.json` and write your account settings
+
 ## Run TV Message
 
 Run this command on GUI
