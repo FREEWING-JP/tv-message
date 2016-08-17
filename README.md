@@ -21,8 +21,7 @@ sudo n latest
 
 ### Install AquesTalk Pi
 
-Download [AquesTalk Pi](http://www.a-quest.com/products/aquestalkpi.html).
-put `aquestalkpi` to `/home/pi/`.
+Download [AquesTalk Pi](http://www.a-quest.com/products/aquestalkpi.html) and put `aquestalkpi` to `/home/pi/`.
 
 ### Install cec-utils
 
