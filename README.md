@@ -1,6 +1,6 @@
 # TV Message
 
-show Twitter Direct Messages on TV via Raspberry Pi
+show Twitter Direct Messages on TV via Raspberry Pi.
 
 ## Setup
 
@@ -21,8 +21,8 @@ sudo n latest
 
 ### Install AquesTalk Pi
 
-Download [AquesTalk Pi](http://www.a-quest.com/products/aquestalkpi.html)  
-put `aquestalkpi` to `/home/pi/`
+Download [AquesTalk Pi](http://www.a-quest.com/products/aquestalkpi.html).
+put `aquestalkpi` to `/home/pi/`.
 
 ### Install cec-utils
 
@@ -32,11 +32,11 @@ sudo apt-get install cec-utils
 
 ## Set account settings
 
-Edit `config.json` and write your account settings
+Edit `config.json` and write your account settings.
 
 ## Run TV Message
 
-Run this command on GUI
+Run this command on GUI.
 
 ```bash
 cd /home/pi/tv-message
